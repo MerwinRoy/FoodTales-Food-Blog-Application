@@ -38,9 +38,13 @@ Designed a food blogging platform that assists bloggers and people with passion 
 
 <img width="357" alt="Screenshot 2022-12-13 at 8 30 56 PM" src="https://user-images.githubusercontent.com/46862684/208752755-4df3a74a-5e8a-492e-8b6c-952b58b4c4e0.png">
 
+<img width="341" alt="Screenshot 2022-12-13 at 8 29 54 PM" src="https://user-images.githubusercontent.com/46862684/208753341-0a1f8f7b-09ab-43c5-ac5b-109dc61af9de.png">
+
 <img width="336" alt="Screenshot 2022-12-13 at 8 31 38 PM" src="https://user-images.githubusercontent.com/46862684/208752776-98821c84-4de5-440f-8dd4-15014278132b.png">
 
 <img width="373" alt="Screenshot 2022-12-13 at 8 32 27 PM" src="https://user-images.githubusercontent.com/46862684/208752812-b67805e4-4908-4ef0-9b40-204100ef558a.png">
+
+<img width="363" alt="Screenshot 2022-12-13 at 8 32 48 PM" src="https://user-images.githubusercontent.com/46862684/208753289-58f765f2-79de-4459-86ff-6abecfae1e09.png">
 
 <img width="382" alt="Screenshot 2022-12-13 at 8 31 59 PM" src="https://user-images.githubusercontent.com/46862684/208752838-797e7e51-bbd3-47e5-873b-9b5891a26f59.png">
 
